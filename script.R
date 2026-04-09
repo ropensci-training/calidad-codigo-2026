@@ -4,6 +4,6 @@ starwars %>%
     mass = NULL,
     height = height * 0.0328084 # convert to feet
   )
-
+x <- colors()
 x[order(x)]
 any(is.na(x))

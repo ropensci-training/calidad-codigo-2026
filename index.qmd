@@ -479,6 +479,8 @@ Necesidad de mantenimiento del código y de tus conocimientos.
 
 - Libro [A philosophy of software design por John Ousterhout](https://masalmon.eu/2023/10/19/reading-notes-philosophy-software-design/)
 
+- Entrada de blog [A Better R Programming Experience Thanks to Tree-sitter](https://ropensci.org/blog/2026/04/02/tree-sitter-overview/)
+
 ## ¡Muchas gracias!
 
 ¡A tod@s vosotr@s y a Yani!
