@@ -1,0 +1,42 @@
+/*-- scss:defaults --*/
+
+// fonts
+// fonts
+@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible&display=swap');
+
+$font-family-sans-serif: "Atkinson Hyperlegible", sans-serif;
+// colors
+$body-bg: #fff !default;
+$body-color: #000 !default;
+$link-color: #AD003A !default;
+
+pre code {
+  margin-top: 10px;
+  line-height: 50px;
+}
+
+/*-- scss:rules --*/
+
+.reveal .slides h2, figcaption {
+    text-align: center;
+}
+
+.reveal figure {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.reveal figcaption p {
+  font-size: 20px;
+  font-style: italic;
+}
+
+.reveal a {
+  line-height: 1.3em;
+}
+.reveal .controls {
+  right: 50px;
+  bottom: 50px; }
+h2 {
+	margin-top: 1rem !important;
+}
