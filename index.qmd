@@ -46,7 +46,7 @@ get_pic <- function(id, alt, width) {
 ::: {.absolute left="5%" bottom="5%"  style="font-size:1.2em; padding: 0.5em 1em; background-color: rgba(255, 255, 255, .8);"}
 Maëlle Salmon
 
-<https://codigo-hermoso.netlify.app/>
+<https://codigo-hermoso-2026.netlify.app/>
 :::
 
 ::: {.notes}
@@ -415,17 +415,31 @@ Incluso podés especificar un valor por defecto (¡o error!) para otros valores 
 
 - Menos código.
 
-## ¿Cómo puedes mejorar tu código?
+## ¿Cómo podés mejorar tu código?
 
 ::: {.incremental}
 
 - Limpieza de primavera ;
 
-- [lintr](https://lintr.r-lib.org/) y [flir](https://flir.etiennebacher.com/) ;
+- [Jarl](https://jarl.etiennebacher.com/), [lintr](https://lintr.r-lib.org/), [flir](https://flir.etiennebacher.com/) ;
 
 - Revisión humana.
 
 :::
+
+## Demo de Jarl
+
+- CLI
+
+- En Positron :smile_cat:
+
+- [Documentación](https://jarl.etiennebacher.com/getting-started)
+
+## lintr, un paquete fantástico
+
+¡Miremos la documentación!
+
+<https://lintr.r-lib.org/reference/index.html>
 
 ## Limpieza de primavera
 
@@ -434,18 +448,6 @@ Incluso podés especificar un valor por defecto (¡o error!) para otros valores 
 - ¿Más regularmente?
 
 - ¿Hacer una pequeña mejora cada vez que añadimos una nueva función?
-
-## lintr, un paquete fantástico
-
-¡Miremos la documentación!
-
-<https://lintr.r-lib.org/reference/index.html>
-
-## flir, otro paquete fantástico
-
-¡Puede hacer cambios!
-
-<https://flir.etiennebacher.com/>
 
 ## Revisión humana
 
@@ -481,7 +483,7 @@ Necesidad de mantenimiento del código y de tus conocimientos.
 
 ¡A tod@s vosotr@s y a Yani!
 
-<https://codigo-hermoso.netlify.app/>
+<https://codigo-hermoso-2026.netlify.app/>
 
 ```{r merci}
 #| results: "asis"
